@@ -1,0 +1,19 @@
+.heading{
+    width: 100%;
+    font-family:"Edu NSW ACT Foundation" ;
+}
+
+#start{
+    font-family:"Pacifico" ;
+    font-size: larger;
+}
+
+#footer{
+    margin-top:250px;
+    background-color: white;
+    width: 100%;
+}
+
+canvas{
+    border-radius: 10px;
+}
